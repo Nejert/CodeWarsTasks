@@ -1,5 +1,6 @@
 #custom
 .idea/
+.jqwik-database
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
