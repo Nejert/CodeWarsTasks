@@ -1,5 +1,6 @@
 /**
- * Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.
+ * Complete the method that takes a boolean value and return a
+ * {@code "Yes"} string for {@code true}, or a {@code "No"} string for {@code false}.
  */
 public class YesOrNo {
     public static String boolToWord(boolean b) {

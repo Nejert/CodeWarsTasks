@@ -11,14 +11,14 @@ import java.util.ArrayList;
  * <p>
  * A string of braces is considered valid if all braces are matched with the correct brace.
  * <p>
- * Examples
- * <pre>
+ * <h2>Examples</h2>
+ * <pre><code>
  * "(){}[]"   =>  True
  * "([{}])"   =>  True
  * "(}"       =>  False
  * "[(])"     =>  False
  * "[({})](]" =>  False
- * </pre>
+ * </code></pre>
  */
 public class BraceChecker {
     public boolean isValid(String braces) {
